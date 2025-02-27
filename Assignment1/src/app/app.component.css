@@ -1,0 +1,6 @@
+.container {
+  display: flex;
+  justify-content: center; /* Centers items horizontally */
+  gap: 20px; /* Adds space between components */
+  padding: 20px;
+}
